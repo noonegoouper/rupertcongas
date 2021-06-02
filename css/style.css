@@ -109,7 +109,9 @@ body {
     .header::after {
       height: 50vh;
     }
-    
+    section{
+      display: none;
+    }
     .header-content {
       top: 5%;
       margin-top: 5px;
@@ -131,9 +133,7 @@ body {
     .services div {
       padding: 1.4rem 1rem;
     }
-    section{
-      display: none;
-    }
+  
   }
   
   /* Landscape */
