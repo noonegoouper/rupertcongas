@@ -122,7 +122,7 @@ body{
 }
 
 
-@media(max-width:560px){
+/*@media(max-width:560px){
    .header-content .title, .header::after{
         height: 50vh;
     }
