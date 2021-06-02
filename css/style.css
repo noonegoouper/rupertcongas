@@ -131,6 +131,9 @@ body {
     .services div {
       padding: 1.4rem 1rem;
     }
+    section{
+      display: none;
+    }
   }
   
   /* Landscape */
@@ -141,4 +144,9 @@ body {
     .header-content {
       top: 0;
     }
+    section{
+      display: none;
+    }
   }
+
+  
